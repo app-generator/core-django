@@ -1,8 +1,11 @@
 # Django Core
 
-Minimal Django project with Docker support.
+Minimal Django project with Docker support - actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
-> Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
+>  Features: 
+
+- ✅ `Up-to-date Dependencies`
+- ✅ `Docker`
 
 <br />
 
@@ -65,3 +68,5 @@ $ python manage.py runserver
 
 At this point, the app runs at `http://127.0.0.1:8000/`. 
 
+---
+**Django Core** - Minimal Django core provided by **[AppSeed](https://appseed.us/)**
