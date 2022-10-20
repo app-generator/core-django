@@ -1,6 +1,6 @@
 # Django Core
 
-Minimal Django project with Docker support - 
+Minimal Django project with Docker support.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
