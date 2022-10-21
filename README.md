@@ -68,5 +68,7 @@ $ python manage.py runserver
 
 At this point, the app runs at `http://127.0.0.1:8000/`. 
 
+<br />
+
 ---
 **Django Core** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
