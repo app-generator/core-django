@@ -1,2 +1,2 @@
-django 
-gunicorn
+django==4.2.8
+gunicorn==21.2.0
