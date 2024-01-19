@@ -9,7 +9,7 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 <br />
 
-## ✨ Start the app in Docker
+## Start in `Docker`
 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
