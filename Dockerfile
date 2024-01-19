@@ -14,5 +14,6 @@ COPY . .
 # running migrations
 RUN python manage.py migrate
 
-# gunicorn
+# Gunicorn
+EXPOSE 5005
 CMD ["gunicorn", "--config", "gunicorn-cfg.py", "core.wsgi"]
