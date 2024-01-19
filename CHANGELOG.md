@@ -1,6 +1,13 @@
 # Change Log
 
-## [1.0.2] 2024-01-19
+## [1.0.3] 2024-01-19
+### Changes
+
+- Update Docker File
+  - added `EXPOSE 5005` directive 
+- Update DOCS (readme) 
+
+## [1.0.2] 2024-01-19 
 ### Changes
 
 - Added `static` and `templates` DIRs
