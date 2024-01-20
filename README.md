@@ -5,6 +5,7 @@ Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` suppo
 > `Start simple`, add features, `learn`, **stay young & hungry**, be `resilient`, **ask for [support](https://appseed.us/support/)** if needed, `iterate`.
 
 <br /> 
+
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
