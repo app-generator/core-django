@@ -1,8 +1,11 @@
 # [Django Core](https://github.com/app-generator/core-django)
 
-Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`.
+Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`. 
 
-> Features: 
+> Start simple, add features, learn, stay young & hungry, be resilient, ask for [support](https://appseed.us/support/) if needed, iterate.
+
+<br /> 
+## Features: 
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`
