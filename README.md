@@ -1,6 +1,6 @@
-# Django Core
+# [Django Core](https://github.com/app-generator/core-django)
 
-Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`.
+Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`.
 
 > Features: 
 
@@ -71,4 +71,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-**Django Core** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+**[Django Core](https://github.com/app-generator/core-django)** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
