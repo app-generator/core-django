@@ -6,7 +6,7 @@ Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` suppo
 
 <br /> 
 
-## Features: 
+## Features
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`
