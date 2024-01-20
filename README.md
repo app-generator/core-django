@@ -6,6 +6,10 @@ Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` suppo
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`
+- ✅ DOCS:
+  - `Video`: [Django for Beginners - Simple Codebase Intro](https://www.youtube.com/watch?v=dVybpJRwbmc)
+  - `Video`: [Django for Beginners - Go LIVE with Render](https://www.youtube.com/watch?v=JyzjVYMuzBQ)
+  - `Video`: [Django for Beginners - Integrate UI (Volt Dashboard)](https://www.youtube.com/watch?v=gqw0Bs67lM4)
 
 <br />
 
