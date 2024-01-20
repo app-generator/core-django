@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2024-01-20
+### Changes
+
+- Added `WhiteNoiseMiddleware` for static files
+- Update `Dockerfile` - added all steps
+
 ## [1.0.3] 2024-01-19
 ### Changes
 
