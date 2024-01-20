@@ -12,6 +12,8 @@ Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` suppo
   - 👉 `Video`: [Django for Beginners - Integrate UI (Volt Dashboard)](https://www.youtube.com/watch?v=gqw0Bs67lM4)
   - 👉 `Video`: [Django for Beginners - Integrate Material Design and Overwrite LOGO](https://www.youtube.com/watch?v=D8zaXFtVF2w)
 
+<br />
+
 ## Start in `Docker`
 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
