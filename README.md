@@ -1,20 +1,16 @@
 # [Django Core](https://github.com/app-generator/core-django)
 
-Minimal **[Django](https://www.djangoproject.com/)** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`. 
+Minimal **Django** project with `Docker` support - actively supported by [App Generator](https://app-generator.dev/) via `Email` and **[Discord](https://discord.gg/fZC6hup)**. 
 
-> `Start simple`, add features, `learn`, **stay young & hungry**, be `resilient`, **ask for [support](https://appseed.us/support/)** if needed, `iterate`.
+---
 
-<br /> 
+> For a **complete set of features** and long-term support, check out **[Dynamic Django](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)**, a powerful starter that incorporates the following:
 
-## Features
-
-- ✅ `Up-to-date Dependencies`
-- ✅ `Docker`
-- ✅ DOCS:
-  - 👉 `Video`: [Django for Beginners - Simple Codebase Intro](https://www.youtube.com/watch?v=dVybpJRwbmc)
-  - 👉 `Video`: [Django for Beginners - Go LIVE with Render](https://www.youtube.com/watch?v=JyzjVYMuzBQ)
-  - 👉 `Video`: [Django for Beginners - Integrate UI (Volt Dashboard)](https://www.youtube.com/watch?v=gqw0Bs67lM4)
-  - 👉 `Video`: [Django for Beginners - Integrate Material Design and Overwrite LOGO](https://www.youtube.com/watch?v=D8zaXFtVF2w)
+- ✅ [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-django/datatables.html): using a single line of configuration, the data saved in any table is automatically managed
+- ✅ [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-django/api.html): any model can become a secure API Endpoint using DRF
+- ✅ [Dynamic Charts](https://app-generator.dev/docs/developer-tools/dynamic-django/charts.html): extract relevant charts without coding all major types are supported
+- ✅ [CSV Loader](https://app-generator.dev/docs/developer-tools/dynamic-django/csv-loader.html): translate CSV files into Django Models and (optional) load the information
+- ✅ Powerful [CLI Tools](https://app-generator.dev/docs/developer-tools/dynamic-django/cli.html) for the GIT interface, configuration editing, updating the configuration and database (create models, migrate DB)
 
 <br />
 
